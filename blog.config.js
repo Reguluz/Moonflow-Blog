@@ -89,13 +89,13 @@ const BLOG = {
     {
       name: '近未来机械都市·清晨',
       artist: 'Reguluz',
-      url: 'https://music.163.com/#/song?id=1446017062',
+      url: 'https://music.163.com/song/media/outer/url?id=1446017062.mp3',
       cover: 'http://p2.music.126.net/1_ycOSCIa_C2vvsLmujP4Q==/109951164965402482.jpg'
     },
     {
       name: '轻工业镇·正午',
       artist: 'Reguluz',
-      url: 'https://music.163.com/#/song?id=1477049887',
+      url: 'https://music.163.com/song/media/outer/url?id=1477049887.mp3',
       cover: 'http://p2.music.126.net/1_ycOSCIa_C2vvsLmujP4Q==/109951164965402482.jpg'
     }
   ],
